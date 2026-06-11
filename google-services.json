@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569355221090",
+    "project_id": "glowup-ai-e13bc",
+    "storage_bucket": "glowup-ai-e13bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569355221090:android:825a162f6833552076393b",
+        "android_client_info": {
+          "package_name": "com.example.glowup_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdzJaTvY5eEGn7vDXuolqHd19ynJAjoxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
